@@ -6,7 +6,7 @@ Lunar Glass integrates advanced visual effects, KWin scripts, and curated config
 
 ![Lunar Glass Desktop Overview](dark.png)
 ![Lunar Glass Desktop Overview](dark2.png)
-
+![Lunar Glass Desktop Overview](dark3.png)
 ---
 
 ## Quick Install
