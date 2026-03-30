@@ -1,6 +1,6 @@
 # Lunar Glass — Frosted Glass Plasma Theme
 
-**Lunar Glass** is a frosted glass aesthetic theme for **KDE Plasma 6** that transforms Plasma into a polished, dynamic tiling window manager (TWM) setup with translucent visuals and productivity-focused workflow enhancements.
+**Lunar Glass** is a frosted glass aesthetic theme for **KDE Plasma 6** that transforms Plasma into a polished, dynamic tiling window manager (TWM) setup with translucent space themed visuals and productivity-focused workflow enhancements.
 
 Lunar Glass integrates advanced visual effects, KWin scripts, and curated configurations to deliver a fully immersive glass-panel desktop experience.
 
