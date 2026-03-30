@@ -4,9 +4,9 @@
 
 Lunar Glass integrates advanced visual effects, KWin scripts, and curated configurations to deliver a fully immersive glass-panel desktop experience.
 
-![Lunar Glass Desktop Overview](dark.png)
-![Lunar Glass Desktop Overview](dark2.png)
-![Lunar Glass Desktop Overview](dark3.png)
+![Lunar Glass Desktop Overview](screenshot1.png)
+![Lunar Glass Desktop Overview](screenshot2.png)
+![Lunar Glass Desktop Overview](screenshot3.png)
 ---
 
 ## Quick Install
